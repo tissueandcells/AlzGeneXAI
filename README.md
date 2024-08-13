@@ -14,4 +14,12 @@ This repository contains the Python code for building and evaluating machine lea
    ```bash
    git clone https://github.com/tissueandcells/AlzGeneXAI.git
    cd AlzGeneXAI
+   
+Install the required packages:
+
+pip install -r requirements.txt
+
+Run the Python script:
+
+python main.py
 
